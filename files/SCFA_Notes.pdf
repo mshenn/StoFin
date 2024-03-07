@@ -10774,48 +10774,52 @@ trailer
 startxref
 784988
 %%EOF
-1125 0 obj
+1144 0 obj
 <</AIS false /BM /Normal /CA 0.600 /Type /ExtGState /ca 0.600 >>
 endobj
 
-1124 0 obj
-<</ExtGState <</GS0 1125 0 R >> /ProcSet [/PDF] >>
+1143 0 obj
+<</ExtGState <</GS0 1144 0 R >> /ProcSet [/PDF] >>
 endobj
 
-1123 0 obj
-<</BBox [0 0 18 18] /Filter /FlateDecode /FormType 1 /Length 291 /Resources 1124 0 R /Subtype /Form /Type /XObject >>stream
+1142 0 obj
+<</BBox [0 0 18 18] /Filter /FlateDecode /FormType 1 /Length 291 /Resources 1143 0 R /Subtype /Form /Type /XObject >>stream
 xœå’MNÄ0…¯ò.Pc§ù=ÁHH,KÄ† ÐÌXp}^Ò'@‘j®ó¿öÖ×ÛŠg&ð¸b|!_âöNñ€‹ÃâøÎªr
 ‚hÑŒzF’äaN¢Eœ1íñ„)‹ûfRÒÔÈ²ÿ"“èêÆÓ,y¶eog/s›)•¼³BÅžN:‘á„Šá'·.¾ªâ	¸¦‡nœnÖ©DýÕ½}Ûamå¯ÖŸ·
 U1ï˜2q™Ê·Ì½u°Ð,äÝKÁdR"CB+:n¤±>kCu¾	äèš%…³ñ³ÁJ—21dí¤X””fqÎmàigÿ€&	Zš=+ùÔ5VìŠûæQg!ŽÓ²AûªÿðW»ÿk¡µœ
 endstream
 endobj
 
-1126 0 obj
-<</F 4 /Open false /Parent 1118 0 R /Rect [415.276 113.973 595.276 233.973] /Subtype /Popup /Type /Annot >>
+1145 0 obj
+<</F 4 /Open false /Parent 1136 0 R /Rect [415.276 128.106 595.276 248.106] /Subtype /Popup /Type /Annot >>
 endobj
 
-1118 0 obj
-<</AP <</N 1123 0 R >> /BS <</W 0 >> /C [0.988 0.961 0.643] /Contents (martingale:\nbalancing up and down, stays stable in the perspective of probability) /CreationDate (D:20240304001435+08'00') /F 28 /M (D:20240304001518+08'00') /NM (477573FB-395F-468E-A020-E1910DA7AEAC) /Name /Comment /P 635 0 R /Popup 1126 0 R /RC (<?xml version='1.0'?><body xmlns='http://www.w3.org/1999/xhtml' xmlns:xfa='http://www.xfa.org/schema/xfa-data/1.0/' style='font-family:Helvetica;font-size:16pt'><p dir='ltr'><span style='color:#17171D;font-family:Helvetica;font-size:15.0pt'>martingale:</span>&#10;<span style='color:#17171D;font-family:Helvetica;font-size:15.0pt'>balancing up and down, stays stable in the perspective of probability</span></p></body>) /Rect [405.831 215.973 423.831 233.973] /Subtype /Text /T (Mengjing Shen) /Type /Annot >>
+1136 0 obj
+<</AP <</N 1142 0 R >> /BS <</W 0 >> /C [0.988 0.961 0.643] /Contents (Brownian motion:\nvariance increases at the rate of t) /CreationDate (D:20240304201311+08'00') /F 28 /M (D:20240304201329+08'00') /NM (D091575A-C30A-438C-820F-AF5317052837) /Name /Comment /P 646 0 R /Popup 1145 0 R /RC (<?xml version='1.0'?><body xmlns='http://www.w3.org/1999/xhtml' xmlns:xfa='http://www.xfa.org/schema/xfa-data/1.0/' style='font-family:Helvetica;font-size:16pt'><p dir='ltr'><span style='color:#17171D;font-family:Helvetica;font-size:15.0pt'>Brownian motion:</span>&#10;<span style='color:#17171D;font-family:Helvetica;font-size:15.0pt'>variance increases at the rate of t</span></p></body>) /Rect [469.075 230.106 487.075 248.106] /Subtype /Text /T (Mengjing Shen) /Type /Annot >>
 endobj
 
-1117 0 obj
-[1114 0 R 1118 0 R 1126 0 R]
+1141 0 obj
+[643 0 R 644 0 R 1136 0 R 1145 0 R]
 endobj
 
 1108 0 obj
-<</Author (þÿ J a e h y u k   C h o i) /CreationDate (D:20240219101240+08'00') /Creator (LaTeX with hyperref) /Keywords () /ModDate (D:20240304001524+08'00') /PTEX.Fullbanner (This is MiKTeX-pdfTeX 4.11.0 \(1.40.24\)) /Producer (MiKTeX pdfTeX-1.40.24) /Subject () /Title (þÿ P H B S   S t o c h a s t i c   F i n a n c e   C o u r s e   N o t e) /Trapped /False >>
+<</Author (þÿ J a e h y u k   C h o i) /CreationDate (D:20240219101240+08'00') /Creator (LaTeX with hyperref) /Keywords () /ModDate (D:20240304201348+08'00') /PTEX.Fullbanner (This is MiKTeX-pdfTeX 4.11.0 \(1.40.24\)) /Producer (MiKTeX pdfTeX-1.40.24) /Subject () /Title (þÿ P H B S   S t o c h a s t i c   F i n a n c e   C o u r s e   N o t e) /Trapped /False >>
 endobj
 
-1120 0 obj
-<</ExtGState <</GS0 1121 0 R >> /ProcSet [/PDF] >>
+646 0 obj
+<</Annots 1141 0 R /Contents 647 0 R /MediaBox [0 0 595.276 841.890] /Parent 628 0 R /Resources 645 0 R /Rotate 0 /Type /Page >>
 endobj
 
-1121 0 obj
+1138 0 obj
+<</ExtGState <</GS0 1139 0 R >> /ProcSet [/PDF] >>
+endobj
+
+1139 0 obj
 <</AIS false /BM /Normal /CA 0.600 /Type /ExtGState /ca 0.600 >>
 endobj
 
-1122 0 obj
-<</F 4 /Open false /Parent 1118 0 R /Rect [415.276 113.973 595.276 233.973] /Subtype /Popup /Type /Annot >>
+1140 0 obj
+<</F 4 /Open false /Parent 1136 0 R /Rect [415.276 121.925 595.276 241.925] /Subtype /Popup /Type /Annot >>
 endobj
 
 624 0 obj
@@ -10824,6 +10828,10 @@ endobj
 
 635 0 obj
 <</Annots 1117 0 R /Contents 636 0 R /MediaBox [0 0 595.276 841.890] /Parent 628 0 R /Resources 634 0 R /Rotate 0 /Type /Page >>
+endobj
+
+664 0 obj
+<</Annots 1135 0 R /Contents 665 0 R /MediaBox [0 0 595.276 841.890] /Parent 661 0 R /Resources 663 0 R /Rotate 0 /Type /Page >>
 endobj
 
 1109 0 obj
@@ -10862,38 +10870,244 @@ endobj
 <</ProcSet [/PDF] >>
 endobj
 
+1117 0 obj
+[1114 0 R 1118 0 R 1130 0 R]
+endobj
+
+1118 0 obj
+<</AP <</N 1127 0 R >> /BS <</W 0 >> /C [0.988 0.961 0.643] /Contents (martingale:\nbalancing up and down, stays stable in the perspective of probability) /CreationDate (D:20240304001435+08'00') /F 28 /M (D:20240304103948+08'00') /NM (477573FB-395F-468E-A020-E1910DA7AEAC) /Name /Comment /P 635 0 R /Popup 1130 0 R /RC (<?xml version='1.0'?><body xmlns='http://www.w3.org/1999/xhtml' xmlns:xfa='http://www.xfa.org/schema/xfa-data/1.0/' style='font-family:Helvetica;font-size:16pt'><p dir='ltr'><span style='color:#17171D;font-family:Helvetica;font-size:15.0pt'>martingale:</span>&#10;<span style='color:#17171D;font-family:Helvetica;font-size:15.0pt'>balancing up and down, stays stable in the perspective of probability</span></p></body>) /Rect [388.323 213.768 406.323 231.768] /Subtype /Text /T (Mengjing Shen) /Type /Annot >>
+endobj
+
+1120 0 obj
+<</ExtGState <</GS0 1121 0 R >> /ProcSet [/PDF] >>
+endobj
+
+1121 0 obj
+<</AIS false /BM /Normal /CA 0.600 /Type /ExtGState /ca 0.600 >>
+endobj
+
+1122 0 obj
+<</F 4 /Open false /Parent 1118 0 R /Rect [415.276 113.973 595.276 233.973] /Subtype /Popup /Type /Annot >>
+endobj
+
+1124 0 obj
+<</ExtGState <</GS0 1125 0 R >> /ProcSet [/PDF] >>
+endobj
+
+1125 0 obj
+<</AIS false /BM /Normal /CA 0.600 /Type /ExtGState /ca 0.600 >>
+endobj
+
+1126 0 obj
+<</F 4 /Open false /Parent 1118 0 R /Rect [415.276 113.973 595.276 233.973] /Subtype /Popup /Type /Annot >>
+endobj
+
+1127 0 obj
+<</BBox [0 0 18 18] /Filter /FlateDecode /FormType 1 /Length 291 /Resources 1128 0 R /Subtype /Form /Type /XObject >>stream
+xœå’MNÄ0…¯ò.Pc§ù=ÁHH,KÄ† ÐÌXp}^Ò'@‘j®ó¿öÖ×ÛŠg&ð¸b|!_âöNñ€‹ÃâøÎªr
+‚hÑŒzF’äaN¢Eœ1íñ„)‹ûfRÒÔÈ²ÿ"“èêÆÓ,y¶eog/s›)•¼³BÅžN:‘á„Šá'·.¾ªâ	¸¦‡nœnÖ©DýÕ½}Ûamå¯ÖŸ·
+U1ï˜2q™Ê·Ì½u°Ð,äÝKÁdR"CB+:n¤±>kCu¾	äèš%…³ñ³ÁJ—21dí¤X””fqÎmàigÿ€&	Zš=+ùÔ5VìŠûæQg!ŽÓ²AûªÿðW»ÿk¡µœ
+endstream
+endobj
+
+1128 0 obj
+<</ExtGState <</GS0 1129 0 R >> /ProcSet [/PDF] >>
+endobj
+
+1129 0 obj
+<</AIS false /BM /Normal /CA 0.600 /Type /ExtGState /ca 0.600 >>
+endobj
+
+1130 0 obj
+<</F 4 /Open false /Parent 1118 0 R /Rect [415.276 111.768 595.276 231.768] /Subtype /Popup /Type /Annot >>
+endobj
+
+1131 0 obj
+<</AP <</N 1132 0 R >> /BS <</W 0 >> /C [1 1 0] /CreationDate (D:20240304111251+08'00') /F 4 /M (D:20240304111251+08'00') /NM (435C78E2-CAA6-4645-88E7-8D5247CFEA65) /P 664 0 R /QuadPoints [199.909 592.971 523.279 592.971 199.909 582.355 523.279 582.355] /Rect [199.909 582.355 523.279 592.971] /Subtype /Highlight /T (Mengjing Shen) /Type /Annot >>
+endobj
+
+1132 0 obj
+<</BBox [0 0 323.370 10.616] /Filter /FlateDecode /FormType 1 /Length 78 /Resources 1133 0 R /Subtype /Form /Type /XObject >>stream
+xœ3Ô300PÐ5@¦!CKK=KK]S#=cSS…ä\.ý C…ôb.C$u=Eé\0õ0åÆFÆzÆæ@ezf†f
+E©\i\ ®å
+endstream
+endobj
+
+1133 0 obj
+<</ExtGState <</R1 1134 0 R >> /ProcSet [/PDF] >>
+endobj
+
+1134 0 obj
+<</BM /Multiply /Type /ExtGState >>
+endobj
+
+1135 0 obj
+[662 0 R 1131 0 R]
+endobj
+
 xref
 0 1
 0000000000 65535 f 
 624 1
-0000809622 00000 n 
+0000809718 00000 n 
 635 1
-0000809769 00000 n 
-1108 19
-0000808957 00000 n 
-0000809916 00000 n 
-0000810348 00000 n 
-0000810609 00000 n 
-0000810678 00000 n 
-0000810733 00000 n 
-0000810779 00000 n 
-0000811147 00000 n 
-0000811400 00000 n 
-0000808909 00000 n 
+0000809865 00000 n 
+646 1
+0000809290 00000 n 
+664 1
+0000810012 00000 n 
+1108 38
+0000808906 00000 n 
+0000810159 00000 n 
+0000810591 00000 n 
+0000810852 00000 n 
+0000810921 00000 n 
+0000810976 00000 n 
+0000811022 00000 n 
+0000811390 00000 n 
+0000811643 00000 n 
+0000811683 00000 n 
+0000811731 00000 n 
+0000000000 65535 f 
+0000812580 00000 n 
+0000812650 00000 n 
+0000812734 00000 n 
+0000000000 65535 f 
+0000812861 00000 n 
+0000812931 00000 n 
+0000813015 00000 n 
+0000813142 00000 n 
+0000813587 00000 n 
+0000813657 00000 n 
+0000813741 00000 n 
+0000813868 00000 n 
+0000814236 00000 n 
+0000814476 00000 n 
+0000814545 00000 n 
+0000814600 00000 n 
 0000808060 00000 n 
 0000000000 65535 f 
-0000809341 00000 n 
-0000809411 00000 n 
-0000809495 00000 n 
+0000809437 00000 n 
+0000809507 00000 n 
+0000809591 00000 n 
+0000808851 00000 n 
 0000807488 00000 n 
 0000807418 00000 n 
 0000807334 00000 n 
 0000807933 00000 n 
 trailer
-<</ID [<11dd79f874daa159f847a11d3a967407> <0afb763f1d17f2d474ce51223eaf0f6c>] /Info 1108 0 R /Prev 784988 /Root 1107 0 R /Size 1127 >>
+<</ID [<11dd79f874daa159f847a11d3a967407> <7361cc81126158e2866529da2c6df1ea>] /Info 1108 0 R /Prev 784988 /Root 1107 0 R /Size 1146 >>
 % PDF Expert 999 Mac OS Dmg 24a92cd52
 % Smart Incremental Update
 
 startxref
-811440
+814638
+%%EOF
+1159 0 obj
+<</BM /Multiply /Type /ExtGState >>
+endobj
+
+1158 0 obj
+<</ExtGState <</R1 1159 0 R >> /ProcSet [/PDF] >>
+endobj
+
+1157 0 obj
+<</BBox [0 0 271.358 11.636] /Filter /FlateDecode /FormType 1 /Length 78 /Resources 1158 0 R /Subtype /Form /Type /XObject >>stream
+xœ3Ô300PÐ5@¦!sK=#K]s=#Kc…ä\.ý C…ôb.C$e-Eé\På0ÕFæ†zÆ¦
+††zfÆf
+E©\i\ „KŽ
+endstream
+endobj
+
+1156 0 obj
+<</AP <</N 1157 0 R >> /BS <</W 0 >> /C [1 1 0] /CreationDate (D:20240307115221+08'00') /F 4 /M (D:20240307115221+08'00') /NM (D2C60865-86D2-4A16-8B0C-04ABB58D0CBE) /P 698 0 R /QuadPoints [79.289 485.929 350.647 485.929 79.289 474.293 350.647 474.293] /Rect [79.289 474.293 350.647 485.929] /Subtype /Highlight /T (Mengjing Shen) /Type /Annot >>
+endobj
+
+1155 0 obj
+[1151 0 R 1156 0 R]
+endobj
+
+1108 0 obj
+<</Author (þÿ J a e h y u k   C h o i) /CreationDate (D:20240219101240+08'00') /Creator (LaTeX with hyperref) /Keywords () /ModDate (D:20240307115629+08'00') /PTEX.Fullbanner (This is MiKTeX-pdfTeX 4.11.0 \(1.40.24\)) /Producer (MiKTeX pdfTeX-1.40.24) /Subject () /Title (þÿ P H B S   S t o c h a s t i c   F i n a n c e   C o u r s e   N o t e) /Trapped /False >>
+endobj
+
+677 0 obj
+<</Annots 1150 0 R /Contents 678 0 R /MediaBox [0 0 595.276 841.890] /Parent 661 0 R /Resources 676 0 R /Rotate 0 /Type /Page >>
+endobj
+
+698 0 obj
+<</Annots 1155 0 R /Contents 699 0 R /MediaBox [0 0 595.276 841.890] /Parent 701 0 R /Resources 697 0 R /Rotate 0 /Type /Page >>
+endobj
+
+1146 0 obj
+<</AP <</N 1147 0 R >> /BS <</W 0 >> /C [1 1 0] /CreationDate (D:20240307110242+08'00') /F 4 /M (D:20240307110242+08'00') /NM (B59C74F4-2933-4D50-B5E4-7F67BA91057E) /P 677 0 R /QuadPoints [113.164 434.190 523.273 434.190 113.164 423.574 523.273 423.574 72.000 412.521 283.036 412.521 72.000 401.905 283.036 401.905] /Rect [72.000 401.905 523.273 434.190] /Subtype /Highlight /T (Mengjing Shen) /Type /Annot >>
+endobj
+
+1147 0 obj
+<</BBox [0 0 451.273 32.285] /Filter /FlateDecode /FormType 1 /Length 90 /Resources 1148 0 R /Subtype /Form /Type /XObject >>stream
+xœMŒË	€0Dï[Å6à:“ÏÛ°Ñœ¼ÄþÁ@rz¼y4 º`Ç(a0¶!ëqËºSë#œ´qiUÈhô¤)DË¥“0bÓ§k;åþ½À^ˆ>	—¼·Aå
+endstream
+endobj
+
+1148 0 obj
+<</ExtGState <</R1 1149 0 R >> /ProcSet [/PDF] >>
+endobj
+
+1149 0 obj
+<</BM /Multiply /Type /ExtGState >>
+endobj
+
+1150 0 obj
+[1146 0 R]
+endobj
+
+1151 0 obj
+<</AP <</N 1152 0 R >> /BS <</W 0 >> /C [1 1 0] /CreationDate (D:20240307114949+08'00') /F 4 /M (D:20240307114949+08'00') /NM (B05AE69E-6E29-4294-8018-B11D11397BD3) /P 698 0 R /QuadPoints [217.236 520.222 392.619 520.222 217.236 507.917 392.619 507.917] /Rect [217.236 507.917 392.619 520.222] /Subtype /Highlight /T (Mengjing Shen) /Type /Annot >>
+endobj
+
+1152 0 obj
+<</BBox [0 0 175.383 12.306] /Filter /FlateDecode /FormType 1 /Length 79 /Resources 1153 0 R /Subtype /Form /Type /XObject >>stream
+xœ3Ô300PÐ5@¦!#Cs=#c3]Ss=KCs…ä\.ý C…ôb.C$u=Eé\0õ0å†æ¦zÆÆ
+†FzÆf
+E©\i\ §¾Î
+endstream
+endobj
+
+1153 0 obj
+<</ExtGState <</R1 1154 0 R >> /ProcSet [/PDF] >>
+endobj
+
+1154 0 obj
+<</BM /Multiply /Type /ExtGState >>
+endobj
+
+xref
+677 1
+0000816923 00000 n 
+698 1
+0000817070 00000 n 
+1108 1
+0000816539 00000 n 
+1146 14
+0000817217 00000 n 
+0000817646 00000 n 
+0000817898 00000 n 
+0000817967 00000 n 
+0000818022 00000 n 
+0000818052 00000 n 
+0000818420 00000 n 
+0000818661 00000 n 
+0000818730 00000 n 
+0000816500 00000 n 
+0000816135 00000 n 
+0000815895 00000 n 
+0000815826 00000 n 
+0000815771 00000 n 
+trailer
+<</ID [<11dd79f874daa159f847a11d3a967407> <c00238fa1fac29aa28e4ea158ff378da>] /Info 1108 0 R /Prev 814638 /Root 1107 0 R /Size 1160 >>
+% PDF Expert 999 Mac OS Dmg 24a92cd52
+% Smart Incremental Update Autosave
+
+startxref
+818785
 %%EOF
