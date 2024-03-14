@@ -11,3 +11,8 @@ problems chap1&2.available
 3.7
 chap4 [hitting time of a level:]
 exercises
+
+3.11
+bachelier model slides
+chap5 [: eq.(5.12)]
+PS
